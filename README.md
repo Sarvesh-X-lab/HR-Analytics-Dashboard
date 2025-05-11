@@ -116,6 +116,16 @@ LinkedIn: [Sarvesh Chavan](https://linkedin.com/in/sarvesh-chavan)
 
 ---
 
+**📺Dashboard Preview**
+
+<img src="a1.png" alt="HR Analysis" width="500"/>
+
+---
+
+<img src="a2.png" alt="Tooltip" width="500"/>
+
+---
+
 **TO DOWNLOAD THE PROJECT :-**
 
 [HR_Analytics.pbix](https://drive.google.com/file/d/10OmM2VrQwflnj35imznwzqNYIHx862Ou/view?usp=sharing)
